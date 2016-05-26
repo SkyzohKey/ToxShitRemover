@@ -16,6 +16,7 @@ Currently this script removes the files that matches the following patterns:
 | `*.hash`      | Avatars hash files produced by qTox       |
 | `*.ini`       | User preferences files produced by qTox   |
 | `*.db`        | Chat logs database files produced by qTox |
+| `ricin.json`  | User preferences file produced by Ricin   |
 
 ### Usage
 ```shell

@@ -14,7 +14,7 @@ readonly ARGS_NB=$#
 
 # Internal script configuration
 readonly TOX_DIR=~/.config/tox/
-readonly SHIT_EXT=('*.fmetadata' '*.new.txt' '*.hash' '*.ini' '*.db')
+readonly SHIT_EXT=('*.fmetadata' '*.new.txt' '*.hash' '*.ini' '*.db' 'ricin.json')
 
 main () {
   # Verify how many arguments get passed to the script.
