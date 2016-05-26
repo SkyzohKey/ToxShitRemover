@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # ToxShitRemover
-# This script is intended to remove all the shit files produced by qTox.
+# This script is intended to remove all the shit files produced by Tox clients.
 # This is released under the MIT license, feel free to use, modify, and delete it.
 #
 # Special credits goes to Encrypt <https://github.com/Encrypt> and his script
